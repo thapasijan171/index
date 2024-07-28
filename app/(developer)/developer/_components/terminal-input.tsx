@@ -34,7 +34,7 @@ const TerminalInput = ({ value, disable, type }: TerminalInputProps) => {
       <div className="flex  items-center">
         <div className="bg-green-500 py-1 px-4 rounded-full z-20 flex gap-2">
           <FaCanadianMapleLeaf className="size-5" />
-          <p>bishal</p>
+          <p>Sijan</p>
         </div>
         <div className="bg-blue-500 py-1 px-4 pl-6 rounded-full -ml-5 z-10 flex gap-2">
           <Folder className="size-5" />
