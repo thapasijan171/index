@@ -132,13 +132,13 @@ export const contactCommand = [
   {
     title: 'Twitter',
     icon: SiX,
-    username: '@bshalmoktan',
+    username: '@sijanthapa',
     link: 'https://twitter.com/thapasijan171',
   },
   {
     title: 'LinkedIn',
     icon: SiLinkedin,
-    username: '@bishalmoktan',
+    username: '@sijanthapa',
     link: 'https://www.linkedin.com/in/sijanlamichhanemagar171/',
   },
   {

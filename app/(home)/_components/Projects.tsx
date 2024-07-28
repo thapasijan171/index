@@ -15,7 +15,7 @@ const Projects = () => {
         {projectsCommand.map((project, index) => {
           return (
             <Link href={project.link} key={index} target="_blank">
-              <div className={cn('p-5 rounded-md ', project.background)}>
+              <div className={cn('p-1.5 rounded-md ', project.background)}>
                 <DirectionAwareHover
                   imageUrl={project.cover}
                   className="w-full h-[40vh]"
